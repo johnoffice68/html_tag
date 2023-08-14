@@ -11,11 +11,11 @@ Em um arquivo aparte, associe cada tag HTML com o respectivo número da área qu
 
 
 
-1 - nav
+1 - header
 <br>
 2 - main
 <br>
-3 - header
+3 - nav
 <br>
 4 - img
 <br>
